@@ -1,5 +1,7 @@
 # Competitive Programming Beginners Solutions - ICPC Assiut University Training 
 
+If you want to start or have started competitive programming, then this repository and guildlines is so much benificial to you.
+
 [Problem Set](https://codeforces.com/group/MWSDmqGsZm/contests)
 
 This repository contains solutions to beginner-level problems from the ICPC Assiut University Training. 
@@ -45,6 +47,6 @@ open an issue or create a pull request.
 
 ## Resources
 
-[Problem and Contest Set] (https://codeforces.com/group/MWSDmqGsZm/contests)
+[Problem and Contest Set](https://codeforces.com/group/MWSDmqGsZm/contests)
 
 Made with love for competitive programming !
